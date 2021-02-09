@@ -53,12 +53,10 @@ public class main{
 					SK.setPlaceList(s1);
 				}
 				if(CommandNum == 2){
-				//
+					SK.switchthing(s1);
 				}
-				//Data += s1+"\n";
 			}
 			s1="";
 		}
-		SK.ShowPlaceList();
 	}
 }

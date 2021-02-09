@@ -8,7 +8,7 @@ public class User{
 	public void setUserName(String name){
 		UserName = name;
 	}
-	public void getUserName(){
+	public String getUserName(){
 		return UserName;
 	}
 }
