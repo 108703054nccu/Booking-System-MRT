@@ -118,4 +118,14 @@ public class SystemKernal{
 		Command ="";
 		index_space = 0;
 	}
+	public void FlowControl(){
+		//Start System
+		//Start Page upload
+		//Get Choice
+		//Gointo Chocie
+		//--->Loop---->//Get Command
+			//|--->//EXECUTE Command
+			//|--->//wait some time jump over the get
+	}
+
 }
